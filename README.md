@@ -4,6 +4,7 @@
 - Joined      : 5/5/2030
 - Role        : Exploratory Researcher
 - Rank        : 4
+- ID          : F10-012
 - Location    : F10
 - Discoveries : 2 : Healorim, Mithril
 - Inventions  : 1 : Lazer Door
@@ -15,6 +16,7 @@
 - Joined      : 5/5/2030
 - Role        : Exploratory Researcher
 - Rank        : 4
+- ID          : F10-013
 - Location    : F10
 - Discoveries : 0
 - Inventions  : 2 : Lazer Door, Power Suit
@@ -26,6 +28,7 @@
 - Joined      : 15/6/2035
 - Role        : Exploratory Researcher / Experimental Researcher
 - Rank        : 4
+- ID          : F10-068
 - Location    : F10
 - Discoveries : 0
 - Inventions  : 5 : Lazer Sword, Energy Shotgun, Energy Sniper, Energy Assult Rifle, Energy Pistol
@@ -38,6 +41,7 @@
 - Joined      : 15/6/2035
 - Role        : Exploratory Researcher / Experimental Researcher
 - Rank        : 4
+- ID          : F10-069
 - Location    : F10
 - Discoveries : 0
 - Inventions  : 5 : Lazer Sword, Energy Shotgun, Energy Sniper, Energy Assult Rifle, Energy Pistol
@@ -49,6 +53,7 @@
 - Joined      : 15/6/2035
 - Role        : Exploratory Researcher / Experimental Researcher
 - Rank        : 4
+- ID          : F10-070
 - Location    : F10
 - Discoveries : 0
 - Inventions  : 5 : Energy Shotgun, Energy Sniper, Energy Assult Rifle, Energy Pistol
