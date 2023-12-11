@@ -10,7 +10,7 @@
 - Origin      : Southeast Asia, Cambodia
 - Education   : Wobash
 - History     : Science Teacher
-- Dr.S developed the lazer door with the help
+- Dr.S developed the lazer door with the help of Dr.SP in the year 2040. Dr.S stated "The lazer doors will protect humanity for generations to come". Dr.S is infamous for his protective nature.
 >**Dr.SP**
 - Joined      : 5/5/2030
 - Role        : Exploratory Researcher
