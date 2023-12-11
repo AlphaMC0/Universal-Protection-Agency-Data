@@ -4,7 +4,7 @@
 - Joined      : 5/5/2030
 - Role        : Exploratory Researcher
 - Rank        : 4
-- ID          : F10-012
+- ID          : F10-012 
 - Location    : F10
 - Discoveries : 2 : Healorim, Mithril
 - Inventions  : 1 : Lazer Door
