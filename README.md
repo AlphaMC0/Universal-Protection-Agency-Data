@@ -7,11 +7,12 @@
 - ID          : F10-012 
 - Location    : F10
 - Discoveries : 2 : Healorim, Mithril
-- Inventions  : 1 : Lazer Door
+- Inventions  : 2 : Lazer Door, Mithril Reactor
 - Origin      : Southeast Asia, Cambodia
 - Education   : Wobash
 - History     : Science Teacher
-- Dr.S developed the lazer door with the help of Dr.SP in the year 2040. Dr.S stated "The lazer doors will protect humanity for generations to come". Dr.S is infamous for his protective nature.
+- Dr.S developed the mitril reactor to power his lazer door in the year 2038. Dr.S developed the lazer door with the help of Dr.SP in the year 2040. Dr.S stated "The lazer doors will protect humanity for generations to 
+  come". Dr.S is infamous for his protective nature.
 >**Dr.SP**
 - Joined      : 5/5/2030
 - Role        : Exploratory Researcher
@@ -63,3 +64,10 @@
 - Dr.SoLazs helped Dr.Krieger and Dr.Onyx develop the energy pistol and the energy shotgun in the year 2039, She later helped them develop the energy sniper and the energy assult rifle in the year 2043. Dr.SoLaz is 
   infamous for her resourcefulness.
 
+**Technological Discoveries**
+>**Lazer Door**
+- Invention ID       : IID-005
+- Inventor           : Dr.S , Dr.SP
+- Date of Completion : 5/5/2040
+- Reason of Creation : Protection of Humanity
+- The Lazer Door is powered by a Mithril Reactor developed by Dr.S himself. Dr.SP perfected the design of the Lazer Door to remove any weaknesses. Dr.S sourced the materials for the Lazer Door from the planet Mars 
