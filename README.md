@@ -7,7 +7,7 @@
 - ID          : F10-012 
 - Location    : F10
 - Discoveries : 2 : Healorim, Mithril
-- Inventions  : 2 : Lazer Door, Mithril Reactor
+- Inventions  : 2 : Lazer Door, Mithril Reactor 
 - Origin      : Southeast Asia, Cambodia
 - Education   : Wobash
 - History     : Science Teacher
