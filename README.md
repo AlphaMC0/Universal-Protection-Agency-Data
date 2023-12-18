@@ -45,11 +45,12 @@
 - ID          : F10-069
 - Location    : F10
 - Discoveries : 0
-- Inventions  : 5 : Lazer Sword, Energy Shotgun, Energy Sniper, Energy Assult Rifle, Energy Pistol
+- Inventions  : 6 : Lazer Sword, Energy Shotgun, Energy Sniper, Energy Assult Rifle, Energy Pistol, Cryo Pod
 - Origin      : Southeast Asia, Cambodia
 - Education   : NYU
 - History     : Chemist / Nuclear Engineer
-- Dr.Onyx helped Dr.Krieger develop the lazer sword in the year 2036. Dr.Onyx helped Dr.Krieger and Dr.SoLazs develop the energy pistol and energy shotgun in the year 2039, He later helped them develop the energy sniper and the energy assult rifle in the year 2043. Dr.Onyx is infamous for his designs.
+- Dr.Onyx helped Dr.Krieger develop the lazer sword in the year 2036. Dr.Onyx helped Dr.Krieger and Dr.SoLazs develop the energy pistol and energy shotgun in the year 2039, He later helped them develop the energy sniper 
+  rifle and the energy assult rifle in the year 2043. Dr.Onyx is infamous for his designs.
 >**Dr.SoLazs**
 - Joined      : 15/6/2035
 - Role        : Exploratory Researcher / Experimental Researcher
@@ -57,18 +58,88 @@
 - ID          : F10-070
 - Location    : F10
 - Discoveries : 0
-- Inventions  : 5 : Energy Shotgun, Energy Sniper, Energy Assult Rifle, Energy Pistol
+- Inventions  : 5 : Energy Shotgun, Energy Sniper, Energy Assult Rifle, Energy Pistol, Cryo Pod
 - Origin      : Southeast Asia, Cambodia
 - Education   : Elon University
 - History     : Nuclear Engineer / Web Developer
-- Dr.SoLazs helped Dr.Krieger and Dr.Onyx develop the energy pistol and the energy shotgun in the year 2039, She later helped them develop the energy sniper and the energy assult rifle in the year 2043. Dr.SoLaz is 
-  infamous for her resourcefulness.
-
+- In the year 2038 Dr.SoLazs Developed the Cryo Pod. Dr.SoLazs helped Dr.Krieger and Dr.Onyx develop the energy pistol and the energy shotgun in the year 2039, She later helped them develop the energy sniper and the 
+  energy assult rifle in the year 2043. Dr.SoLaz is infamous for her resourcefulness.
+>**Dr.SGK**
+- Joined      : 1/7/2040
+- Role        : Experimental Researcher
+- Rank        : 4
+- ID          : F10-100
+- Location    : F10
+- Discoveries : 0
+- Inventions  : 5 : 
+- Origin      : Southeast Asia, Cambodia
+- Education   : Harvard
+- History     : Doctor
+- 
+>**Dr.NK**
+- Joined      : 4/5/2040
+- Role        : Experimental Researcher
+- Rank        : 4
+- ID          : F10-099
+- Location    : F10
+- Discoveries : 0
+- Inventions  : 5 : 
+- Origin      : Southeast Asia, Cambodia
+- Education   : MIT
+- History     : Doctor
+- 
 **Technological Discoveries**
+>**Power Suit**
+- Invention ID       : IID-002
+- Inventor           : Dr.SP
+- Date of Completion : 6/3/2050
+- Reason of Creation : ATPAIA
+- The Power Suit was designed and built by Dr.SP with materials sourced from Mars and Earth in the year 2050. (Further Information has been lost)
+>**Mithril Reactor**
+- Invention ID       : IID-004
+- Inventor           : Dr.S 
+- Date of Completion : 3/5/2038
+- Reason of Creation : PS
+- The Mithril Reactor was designed and built by Dr.S with materials sourced from Mars and Earth in the year 2038. (Further Information has been lost)
 >**Lazer Door**
 - Invention ID       : IID-005
 - Inventor           : Dr.S , Dr.SP
 - Date of Completion : 5/5/2040
-- Reason of Creation : Protection of Humanity
-- The Lazer Door is powered by a Mithril Reactor developed by Dr.S himself. Dr.SP perfected the design of the Lazer Door to remove any weaknesses. The materials for the lazer door are sourced from mars.(Further 
-  Information have been lost)
+- Reason of Creation : POH
+- The Lazer Door was designed by Dr.SP and built by Dr.S with materials sourced from Mars and Earth in the year 2040. (Further Information has been lost)
+>**Lazer Sword**
+- Invention ID       : IID-015
+- Inventor           : Dr.Krieger , Dr.Onyx
+- Date of Completion : 6/11/2036
+- Reason of Creation : WAIA
+- The Energy Shotgun was designed by Dr.Onyx and built by Dr.Krieger with materials sourced from Mars and Earth in the year 2036. (Further Information has been lost)
+>**Energy Shotgun**
+- Invention ID       : IID-016
+- Inventor           : Dr.Krieger , Dr.Onyx , Dr.SoLazs
+- Date of Completion : 6/1/2039
+- Reason of Creation : WAIA
+- The Energy Shotgun was designed by Dr.Onyx and built by Dr.Krieger and Dr.SoLazs with materials sourced from Mars and Earth in the year 2039. (Further Information has been lost)
+>**Energy Pistol**
+- Invention ID       : IID-017
+- Inventor           : Dr.Krieger , Dr.Onyx , Dr.SoLazs
+- Date of Completion : 10/11/2039
+- Reason of Creation : WAIA
+- The Energy Pistol was designed by Dr.Onyx and built by Dr.Krieger and Dr.SoLazs with materials sourced from Mars and Earth in the year 2039. (Further Information has been lost)
+>**Energy Sniper Rifle**
+- Invention ID       : IID-018
+- Inventor           : Dr.Krieger , Dr.Onyx , Dr.SoLazs
+- Date of Completion : 6/1/2043 
+- Reason of Creation : WAIA
+- The Energy Sniper Rifle was designed by Dr.Onyx and built by Dr.Krieger and Dr.SoLazs with materials sourced from Mars and Earth in the year 2043. (Further Information has been lost)
+>**Energy Assult Riffle**
+- Invention ID       : IID-019
+- Inventor           : Dr.Krieger , Dr.Onyx , Dr.SoLazs
+- Date of Completion : 5/1/2043
+- Reason of Creation : WAIA
+- The Energy Assult Rifle was designed by Dr.Onyx and built by Dr.Krieger and Dr.SoLazs with materials sourced from Mars and Earth in the year 2043. (Further Information has been lost)
+>**Cryo Pod**
+- Invention ID       : IID-020
+- Inventor           : Dr.Onyx , Dr.SoLazs
+- Date of Completion : 6/1/2038
+- Reason of Creation : WAIA
+- The Cryo Pod was designed by Dr.Onyx and built by Dr.SoLazs with materials sourced from Mars and Earth in the year 2038. (Further Information has been lost)
