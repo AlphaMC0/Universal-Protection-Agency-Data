@@ -70,4 +70,5 @@
 - Inventor           : Dr.S , Dr.SP
 - Date of Completion : 5/5/2040
 - Reason of Creation : Protection of Humanity
-- The Lazer Door is powered by a Mithril Reactor developed by Dr.S himself. Dr.SP perfected the design of the Lazer Door to remove any weaknesses. Dr.S sourced the materials for the Lazer Door from the planet Mars 
+- The Lazer Door is powered by a Mithril Reactor developed by Dr.S himself. Dr.SP perfected the design of the Lazer Door to remove any weaknesses. The materials for the lazer door are sourced from mars.(Further 
+  Information have been lost)
