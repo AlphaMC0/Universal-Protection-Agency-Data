@@ -18,7 +18,7 @@
 - Role        : Exploratory Researcher
 - Rank        : 4
 - ID          : F10-013
-- Location    : F10
+- Location    : F10 
 - Discoveries : 0
 - Inventions  : 2 : Lazer Door, Power Suit
 - Origin      : Southeast Asia, Cambodia
