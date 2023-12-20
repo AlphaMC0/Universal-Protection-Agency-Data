@@ -11,7 +11,7 @@
 - **PS**: Power Source
 - **WAIA**: Weapon Against Invading Aliens
 >**Ore or Gem Classification**
- ** **                                     
+- ** **                                     
 **Agency Scientists**
 >**Dr.S**
 - Joined      : 5/5/2030
