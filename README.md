@@ -37,8 +37,8 @@
 - Origin      : Southeast Asia, Cambodia
 - Education   : NYU
 - History     : Engineer / Biologist 
-- Dr. SP discovered the ore Aluminium Oxide C11 in the year 2035 on the planet Mars. He also discovered the gem Nth in the yer 2035Dr.SP helped Dr.S develop the lazer door in the year 2040. Dr.SP invented the power suit 
-  in the year 2050. He stated "I invented the power suit for the protection of humanity". Dr.SP is infamous for being secretive. 
+- Dr. SP discovered the ore Aluminium Oxide C11 in the year 2035 on the planet Mars. He also discovered the gem Nth in the yer 2035. Dr.SP helped Dr.S develop the lazer door in the year 2040. Dr.SP invented the power 
+  suit in the year 2050. He stated "I invented the power suit for the protection of humanity". Dr.SP is infamous for being secretive. 
 >**Dr.Krieger**
 - Joined      : 15/6/2035
 - Role        : Exploratory Researcher / Experimental Researcher
@@ -165,3 +165,40 @@
 - Date of Completion : 6/1/2038
 - Reason of Creation : HP
 - The Health Pod was designed by Dr.NK and built by Dr.SGK with materials sourced from Mars and Earth in the year 2045. (Further Information has been lost)
+**Ore and Gem Discovery**
+>**Mithril**
+- Discovery ID      : OGID-015
+- Discovered By     : Dr.S
+- Date of Discovery : 3/11/2035
+- Ore/Gem Class     : A
+- Mithril, discovered by Dr.S in the yeaar 2035 on the planet Mars. Dr.S stumbled upon the Mithril Deposit on an expedition to discover Water Deposits on Mars.
+>**Orthrim**
+- Discovery ID      : OGID-050
+- Discovered By     : Dr.Krieger
+- Date of Discovery : 13/5/2032
+- Ore/Gem Class     : A
+- Orthrim, discovered by Dr.Krieger in the yeaar 2032 on the planet Mars. Dr.Krieger discovered Orthrim on the outer layer of Mithril Deposit.
+>**Anti**
+- Discovery ID      : OGID-051
+- Discovered By     : Dr.Krieger
+- Date of Discovery : 5/6/2032
+- Ore/Gem Class     : B
+- Anti, discovered by Dr.Krieger in the yeaar 2032 on the planet Mars. Dr.Krieger discovered Anti near Water Deposits on Mars.
+>**Nth**
+- Discovery ID      : OGID-060
+- Discovered By     : Dr.SP
+- Date of Discovery : 13/4/2035
+- Ore/Gem Class     : A
+- Nth, discovered by Dr.SP in the yeaar 2035 on the planet Mars. Dr.SP discovered Nth below the polar ice caps of Mars.
+>**Aluminium Oxide C11**
+- Discovery ID      : OGID-040
+- Discovered By     : Dr.SP
+- Date of Discovery : 13/5/2035
+- Ore/Gem Class     : B
+- Aluminium Oxide C11, discovered by Dr.SP in the yeaar 2035 on the planet Mars. Dr.SP discovered Aluminium near UPA settlement on Mars.
+>**Copper B4**
+- Discovery ID      : OGID-070
+- Discovered By     : Dr.Onyx
+- Date of Discovery : 30/8/2032
+- Ore/Gem Class     : B
+- Copper B4, discovered by Dr.Onyx in the yeaar 2032 on the planet Mars. Dr.Onyx discovered Copper B4 after strip mining the surface of Mars.
