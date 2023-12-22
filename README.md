@@ -7,11 +7,14 @@
 - **Rank 4**: High Rank :  Valuble Scientists and Researchers
 - **Rank 5**: O5 Council , Extremely Valuble Scientist and Main Mobile Task Force 
 >**Invention Classification**
-- **HP**: Humanitarian Protection
-- **PS**: Power Source
+- **HP**  : Humanitarian Protection
+- **PS**  : Power Source
 - **WAIA**: Weapon Against Invading Aliens
 >**Ore or Gem Classification**
-- ** **                                     
+- **A**: Extremely Powerful : Dangerous  : Extremely Rare
+- **B**: Powerful           : Mid-Danger : Mid-Rare
+- **C**: Valuable           : Low-Danger : Rare
+- **D**: Useful             : No-Danger  : Not-Rare                  
 **Agency Scientists**
 >**Dr.S**
 - Joined      : 5/5/2030
@@ -171,34 +174,52 @@
 - Discovered By     : Dr.S
 - Date of Discovery : 3/11/2035
 - Ore/Gem Class     : A
-- Mithril, discovered by Dr.S in the yeaar 2035 on the planet Mars. Dr.S stumbled upon the Mithril Deposit on an expedition to discover Water Deposits on Mars.
+- Mithril, discovered by Dr.S in the year 2035 on the planet Mars. Dr.S stumbled upon the Mithril Deposit on an expedition to discover Water Deposits on Mars.
 >**Orthrim**
 - Discovery ID      : OGID-050
 - Discovered By     : Dr.Krieger
 - Date of Discovery : 13/5/2032
 - Ore/Gem Class     : A
-- Orthrim, discovered by Dr.Krieger in the yeaar 2032 on the planet Mars. Dr.Krieger discovered Orthrim on the outer layer of Mithril Deposit.
+- Orthrim, discovered by Dr.Krieger in the year 2032 on the planet Mars. Dr.Krieger discovered Orthrim on the outer layer of Mithril Deposit.
 >**Anti**
 - Discovery ID      : OGID-051
 - Discovered By     : Dr.Krieger
 - Date of Discovery : 5/6/2032
 - Ore/Gem Class     : B
-- Anti, discovered by Dr.Krieger in the yeaar 2032 on the planet Mars. Dr.Krieger discovered Anti near Water Deposits on Mars.
+- Anti, discovered by Dr.Krieger in the year 2032 on the planet Mars. Dr.Krieger discovered Anti near Water Deposits on Mars.
 >**Nth**
 - Discovery ID      : OGID-060
 - Discovered By     : Dr.SP
 - Date of Discovery : 13/4/2035
 - Ore/Gem Class     : A
-- Nth, discovered by Dr.SP in the yeaar 2035 on the planet Mars. Dr.SP discovered Nth below the polar ice caps of Mars.
+- Nth, discovered by Dr.SP in the year 2035 on the planet Mars. Dr.SP discovered Nth below the polar ice caps of Mars.
 >**Aluminium Oxide C11**
 - Discovery ID      : OGID-040
 - Discovered By     : Dr.SP
 - Date of Discovery : 13/5/2035
 - Ore/Gem Class     : B
-- Aluminium Oxide C11, discovered by Dr.SP in the yeaar 2035 on the planet Mars. Dr.SP discovered Aluminium near UPA settlement on Mars.
+- Aluminium Oxide C11, discovered by Dr.SP in the year 2035 on the planet Mars. Dr.SP discovered Aluminium near UPA settlement on Mars.
 >**Copper B4**
-- Discovery ID      : OGID-070
+- Discovery ID      : OGID-020
 - Discovered By     : Dr.Onyx
 - Date of Discovery : 30/8/2032
 - Ore/Gem Class     : B
-- Copper B4, discovered by Dr.Onyx in the yeaar 2032 on the planet Mars. Dr.Onyx discovered Copper B4 after strip mining the surface of Mars.
+- Copper B4, discovered by Dr.Onyx in the year 2032 on the planet Mars. Dr.Onyx discovered Copper B4 after strip mining the surface of Mars.
+>**Healorim**
+- Discovery ID      : OGID-041
+- Discovered By     : Dr.S
+- Date of Discovery : 30/8/2035
+- Ore/Gem Class     : A
+- Healorim, discovered by Dr.S in the year 2032 on the planet Mars. Dr.S discovered Healorim after Drilling to the core of Mars.
+>**Atractium**
+- Discovery ID      : OGID-049
+- Discovered By     : Dr.SoLazs
+- Date of Discovery : 30/8/2032
+- Ore/Gem Class     : A
+- Atractium, discovered by Dr.SoLazs in the year 2032 on the planet Mars. Dr.SoLazs discovered Atractium accidentally when drilling to the core of Mars.
+>**Rethrim**
+- Discovery ID      : OGID-048
+- Discovered By     : Dr.Onyx
+- Date of Discovery : 30/8/2032
+- Ore/Gem Class     : A
+- Rethrim, discovered by Dr.Onyx in the year 2032 on the planet Mars. Dr.Onyx discovered Rethrim on the outer layer of the Orthrim deposit.
