@@ -11,7 +11,7 @@
 - **PS**  : Power Source
 - **WAIA**: Weapon Against Invading Aliens
 >**Ore or Gem Classification**
-- **A**: Extremely Powerful : Dangerous  : Extremely Rare
+- **A**: Extremely Powerful : Dangerous  : Extremely Rare 
 - **B**: Powerful           : Mid-Danger : Mid-Rare
 - **C**: Valuable           : Low-Danger : Rare
 - **D**: Useful             : No-Danger  : Not-Rare                  
