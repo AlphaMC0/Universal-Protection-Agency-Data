@@ -9,7 +9,7 @@
 >**Invention Classification**
 - **HP**  : Humanitarian Protection
 - **PS**  : Power Source
-- **WAIA**: Weapon Against Invading Aliens
+- **WAIA**: Weapon Against Invading Aliens 
 >**Ore or Gem Classification**
 - **A**: Extremely Powerful : Dangerous  : Extremely Rare 
 - **B**: Powerful           : Mid-Danger : Mid-Rare
