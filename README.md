@@ -7,9 +7,9 @@
 - **Rank 4**: High Rank :  Valuble Scientists and Researchers
 - **Rank 5**: O5 Council , Extremely Valuble Scientist and Main Mobile Task Force  
 >**Invention Classification**
-- **HP**  : Humanitarian Protection
-- **PS**  : Power Source
-- **WAIA**: Weapon Against Invading Aliens 
+- **HP**   : Humanitarian Protection
+- **PS**   : Power Source
+- **WAIA** : Weapon Against Invading Aliens 
 >**Ore or Gem Classification**
 - **A**: Extremely Powerful : Dangerous  : Extremely Rare 
 - **B**: Powerful           : Mid-Danger : Mid-Rare
