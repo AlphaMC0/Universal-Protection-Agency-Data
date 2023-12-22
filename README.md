@@ -5,7 +5,7 @@
 - **Rank 2**: Low Rank : Maintenance and Cleaning Team
 - **Rank 3**: Medium Rank : Mobile Task Force and Field Agents
 - **Rank 4**: High Rank :  Valuble Scientists and Researchers
-- **Rank 5**: O5 Council , Extremely Valuble Scientist and Main Mobile Task Force  
+- **Rank 5**: O5 Council , Extremely Valuble Scientist and Main Mobile Task Force   
 >**Invention Classification**
 - **HP**   : Humanitarian Protection
 - **PS**   : Power Source 
