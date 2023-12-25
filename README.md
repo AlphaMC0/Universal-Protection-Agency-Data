@@ -14,7 +14,13 @@
 - **A** : Extremely Powerful : Dangerous  : Extremely Rare 
 - **B** : Powerful           : Mid-Danger : Mid-Rare
 - **C** : Valuable           : Low-Danger : Rare
-- **D** : Useful             : No-Danger  : Not-Rare                  
+- **D** : Useful             : No-Danger  : Not-Rare
+>**Creature Classification**
+- **S** : Extreamly Dangerous
+- **A** : Very Dangerous
+- **B** : Dangerous
+- **C** : Low Danger
+- **D** : Not Dangerous               
 **Agency Scientists**
 >**Dr.S**
 - Joined      : 5/5/2030
@@ -224,10 +230,19 @@
 - Ore/Gem Class     : A
 - Rethrim, discovered by Dr.Onyx in the year 2032 on the planet Mars. Dr.Onyx discovered Rethrim on the outer layer of the Orthrim deposit.
 **Hostile Martian Creature Information**
->** **
+>**The Bombarder**
 - Creature ID           : CID-001
-- Creature Danger Class :
-- Strengths             :
-- Weaknesses            :
-- Weapons               :
-- Valuable Parts        :
+- Creature Danger Class : S
+- Strengths             : Strength, Speed, Night Vision, Heat Seeking
+- Weaknesses            : Lazer Bullets, Lazer Sword
+- Weapons               : Spear, Gun, 
+- Valuable Parts        : Energy, Scrap Parts
+- The Bombarder will shoot its enemy before thrusting its spear into the weak spot of its enemy. Extreamly Dangerous Kill On Sight.
+- >**The Ripper**
+- Creature ID           : CID-002
+- Creature Danger Class : S
+- Strengths             : Strength, Speed
+- Weaknesses            : Lazer Sword
+- Weapons               : Spear Shaped Claw
+- Valuable Parts        : Energy
+- The Ripper will thrust its spear shaped claws into its enemy before ripping them up to eat. Extreamly Dangerous Kill On Sight.
