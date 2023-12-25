@@ -114,6 +114,7 @@
 - History     : Doctor
 - In the year 2045 Dr.NK invented the Healing Pod with the help of Dr.SGK as a way to treat soldiers on the battle field. Dr.NK wanted to create the Healing Pod to fulfill her dream of treating all health problems in 
   the world.
+  **                                   **
 **Technological Discoveries Report**
 >**Power Suit**
 - Invention ID       : IID-002
@@ -175,6 +176,7 @@
 - Date of Completion : 6/1/2038
 - Reason of Creation : HP
 - The Health Pod was designed by Dr.NK and built by Dr.SGK with materials sourced from Mars and Earth in the year 2045. (Further Information has been lost)
+**                        **
 **Ore and Gem Discovery**
 >**Mithril**
 - Discovery ID      : OGID-015
@@ -230,6 +232,7 @@
 - Date of Discovery : 30/8/2032
 - Ore/Gem Class     : A
 - Rethrim, discovered by Dr.Onyx in the year 2032 on the planet Mars. Dr.Onyx discovered Rethrim on the outer layer of the Orthrim deposit.
+  **                                     **
 **Hostile Martian Creature Information**
 >**The Bombarder**
 - Creature ID           : CID-001
