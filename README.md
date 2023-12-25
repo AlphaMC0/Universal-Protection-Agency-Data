@@ -223,3 +223,11 @@
 - Date of Discovery : 30/8/2032
 - Ore/Gem Class     : A
 - Rethrim, discovered by Dr.Onyx in the year 2032 on the planet Mars. Dr.Onyx discovered Rethrim on the outer layer of the Orthrim deposit.
+**Hostile Martian Creature Information**
+>** **
+- Creature ID           : CID-001
+- Creature Danger Class :
+- Strengths             :
+- Weaknesses            :
+- Weapons               :
+- Valuable Parts        :
