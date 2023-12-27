@@ -235,18 +235,26 @@
 **                                                              **
 **Hostile Martian Creature Information**
 >**The Bombarder**
-- Creature ID           : CID-001
+- Creature ID           : CID-349
 - Creature Danger Class : S
-- Strengths             : Strength, Speed, Night Vision, Heat Seeking
+- Strengths             : Strength, Speed, Night Vision, X-Ray Vision
 - Weaknesses            : Lazer Bullets, Lazer Sword
-- Weapons               : Spear, Gun, 
+- Weapons               : Spear, Gun
 - Valuable Parts        : Energy, Scrap Parts
 - The Bombarder will shoot its enemy before thrusting its spear into the weak spot of its enemy. Extreamly Dangerous Kill On Sight.
-- >**The Ripper**
-- Creature ID           : CID-002
+>**The Ripper**
+- Creature ID           : CID-500
 - Creature Danger Class : S
 - Strengths             : Strength, Speed
 - Weaknesses            : Lazer Sword
 - Weapons               : Spear Shaped Claw
 - Valuable Parts        : Energy
 - The Ripper will thrust its spear shaped claws into its enemy before ripping them up to eat. Extreamly Dangerous Kill On Sight.
+>**The Ghoul**
+- Creature ID           : CID-501
+- Creature Danger Class : B
+- Strengths             : Strength, Speed, Night Vision, X-Ray Vision 
+- Weaknesses            : Lazer Sword, Lazer Bullets
+- Weapons               : Raw Strength
+- Valuable Parts        : Energy
+- The Ghoul will run to its victims before beating them to death.
