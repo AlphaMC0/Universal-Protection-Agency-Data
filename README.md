@@ -234,27 +234,59 @@
 - Rethrim, discovered by Dr.Onyx in the year 2032 on the planet Mars. Dr.Onyx discovered Rethrim on the outer layer of the Orthrim deposit.
 **                                                              **
 **Hostile Martian Creature Information**
->**The Bombarder**
-- Creature ID           : CID-349
-- Creature Danger Class : S
-- Strengths             : Strength, Speed, Night Vision, X-Ray Vision
+>**Anglerox**
+- Creature ID           : CID-609
+- Creature Danger Class : A
+- Strengths             : Talons, Speed, Strength
 - Weaknesses            : Lazer Bullets, Lazer Sword
-- Weapons               : Spear, Gun
-- Valuable Parts        : Energy, Scrap Parts
-- The Bombarder will shoot its enemy before thrusting its spear into the weak spot of its enemy. Extreamly Dangerous Kill On Sight.
->**The Ripper**
-- Creature ID           : CID-500
-- Creature Danger Class : S
-- Strengths             : Strength, Speed
-- Weaknesses            : Lazer Sword
-- Weapons               : Spear Shaped Claw
+- Weapons               : Talons
 - Valuable Parts        : Energy
-- The Ripper will thrust its spear shaped claws into its enemy before ripping them up to eat. Extreamly Dangerous Kill On Sight.
->**The Ghoul**
-- Creature ID           : CID-501
+- The Anglerox will run to it's victims and rip them to shreds before eating them.
+>**Arack**
+- Creature ID           : CID-610
 - Creature Danger Class : B
-- Strengths             : Strength, Speed, Night Vision, X-Ray Vision 
-- Weaknesses            : Lazer Sword, Lazer Bullets
-- Weapons               : Raw Strength
+- Strengths             : Speed, Strength
+- Weaknesses            : Lazer Bullets, Lazer Sword
+- Weapons               : Teeth
 - Valuable Parts        : Energy
-- The Ghoul will run to its victims before beating them to death.
+- The Arack will run to its victims before biting them to death.
+>**Ceratoferox**
+- Creature ID           : CID-650
+- Creature Danger Class : A
+- Strengths             : Strength, Speed
+- Weaknesses            : Lazer Bullets, Lazer Sword
+- Weapons               : Talons, Teeth
+- Valuable Parts        : Energy
+- The Ceratoferox will run to a victim and either rip or bite them to death.
+>**Gasterobrach**
+- Creature ID           : CID-651
+- Creature Danger Class : C
+- Strengths             : Strength
+- Weaknesses            : Lazer Bullets, Lazer Sword
+- Weapons               : Teeth
+- Valuable Parts        : Energy
+- The Gasterobrach will run to its victims and swallow them whole.(It is a close cousin to the Gobbler)
+>**Gobbler**
+- Creature ID           : CID-655
+- Creature Danger Class : C
+- Strengths             : Strength
+- Weaknesses            : Lazer Bullets, Lazer Sword
+- Weapons               : Teeth
+- Valuable Parts        : Energy
+- The Gobbler will run to a victim and gobble them whole.(It is a close cousin to the Gasterobrach)
+>**Onyscidus**
+- Creature ID           : CID-666
+- Creature Danger Class : A
+- Strengths             : Speed
+- Weaknesses            : Lazer Bullets, Lazer Sword
+- Weapons               : Poison
+- Valuable Parts        : Energy
+- The Onyscidus will run to a victim and inject them with poison if not treated it will kill them in 1q.
+>**Ursacetus**
+- Creature ID           : CID-669
+- Creature Danger Class : S
+- Strengths             : Speed, Strength, Hightened Sense of Smell and Vision
+- Weaknesses            : Lazer Sword
+- Weapons               : Teeth, Poison
+- Valuable Parts        : Energy
+- The Ursacetus will hunt its victims down and inject them with poison that if not treated will kill you in 1q after the poison kills its victims it will gobble the victim whole.a(Boss Monster)
