@@ -31,7 +31,7 @@
 - Location    : F10
 - Discoveries : 2 : Healorim, Mithril
 - Inventions  : 2 : Lazer Door, Mithril Reactor 
-- History     : Nuclear Reactor
+- History     : Nuclear Engineer 
 - Dr.S discovered the ores Healorim and Mithril in the year 2035. Dr.S developed the mitril reactor to power his lazer door in the year 2038. Dr.S developed the lazer door with the help of Dr.SP in the year 2040. Dr.S 
   stated "The lazer doors will protect humanity for generations to come". Dr.S is infamous for his protective nature.
 >**Dr.SP**
