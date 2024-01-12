@@ -31,9 +31,7 @@
 - Location    : F10
 - Discoveries : 2 : Healorim, Mithril
 - Inventions  : 2 : Lazer Door, Mithril Reactor 
-- Origin      : Southeast Asia, Cambodia
-- Education   : Wobash
-- History     : Science Teacher
+- History     : Nuclear Reactor
 - Dr.S discovered the ores Healorim and Mithril in the year 2035. Dr.S developed the mitril reactor to power his lazer door in the year 2038. Dr.S developed the lazer door with the help of Dr.SP in the year 2040. Dr.S 
   stated "The lazer doors will protect humanity for generations to come". Dr.S is infamous for his protective nature.
 >**Dr.SP**
@@ -44,8 +42,6 @@
 - Location    : F10 
 - Discoveries : 2 : Nth , Aluminium Oxide C11
 - Inventions  : 2 : Lazer Door, Power Suit
-- Origin      : Southeast Asia, Cambodia
-- Education   : NYU
 - History     : Engineer / Biologist 
 - Dr. SP discovered the ore Aluminium Oxide C11 in the year 2035 on the planet Mars. He also discovered the gem Nth in the yer 2035. Dr.SP helped Dr.S develop the lazer door in the year 2040. Dr.SP invented the power 
   suit in the year 2050. He stated "I invented the power suit for the protection of humanity". Dr.SP is infamous for being secretive. 
@@ -59,7 +55,7 @@
 - Inventions  : 5 : Lazer Sword, Energy Shotgun, Energy Sniper, Energy Assult Rifle, Energy Pistol
 - Origin      : Southeast Asia, Cambodia
 - Education   : MIT
-- History     : Nuclear Engineer  
+- History     : Nuclear Engineer / Anti-Matter Manager
 - During the year 2032 Dr.Krieger discovered the ore Orithrim and the gem Anti on the planet Mars. Dr.Krieger invented the lazer sword with Dr.Onyx in the year 2036. He later developed the energy pistol and the energy 
   shot gun with the help of Dr.SoLazs and Dr.Onyx in the year 2039. Dr.Krieger invented the energy assult rifle and the energy sniper with the help of Dr.SoLazs and Dr.Onyx in the year 2043. Dr.Krieger is infamous for 
   his destructive creativity.
@@ -71,8 +67,6 @@
 - Location    : F10
 - Discoveries : 2 : Copper B4 , Rethrim
 - Inventions  : 6 : Lazer Sword, Energy Shotgun, Energy Sniper, Energy Assult Rifle, Energy Pistol, Cryo Pod
-- Origin      : Southeast Asia, Cambodia
-- Education   : NYU
 - History     : Chemist / Nuclear Engineer
 - During the year 2032 Dr.Onyx discovered the ores Copper B4 and Rethrim. Dr.Onyx helped Dr.Krieger develop the lazer sword in the year 2036. Dr.Onyx helped Dr.Krieger and Dr.SoLazs develop the energy pistol and energy 
   shotgun in the year 2039, He later helped them develop the energy sniper rifle and the energy assult rifle in the year 2043. Dr.Onyx is infamous for his designs.
@@ -84,9 +78,7 @@
 - Location    : F10
 - Discoveries : 1 : Atractium
 - Inventions  : 5 : Energy Shotgun, Energy Sniper, Energy Assult Rifle, Energy Pistol, Cryo Pod
-- Origin      : Southeast Asia, Cambodia
-- Education   : Elon University
-- History     : Nuclear Engineer / Web Developer
+- History     : Nuclear Engineer
 - In the year 2032 Dr.SoLazs discovered the gem Atractium on the planet Mars. In the year 2038 Dr.SoLazs Developed the Cryo Pod. Dr.SoLazs helped Dr.Krieger and Dr.Onyx develop the energy pistol and the energy shotgun 
   in the year 2039, She later helped them develop the energy sniper and the energy assult rifle in the year 2043. Dr.SoLaz is infamous for her resourcefulness.
 >**Dr.SGK**
@@ -97,8 +89,6 @@
 - Location    : F10
 - Discoveries : 0
 - Inventions  : 1 : Healing Pod 
-- Origin      : Southeast Asia, Cambodia
-- Education   : Harvard
 - History     : Doctor
 - In the year 2045 Dr.SGK invented the Healing Pod with the help of Dr.NK, as a way to quickly treat soldiers on the battle field.
 >**Dr.NK**
@@ -109,8 +99,6 @@
 - Location    : F10
 - Discoveries : 0
 - Inventions  : 1 : Healing Pod 
-- Origin      : Southeast Asia, Cambodia
-- Education   : MIT
 - History     : Doctor
 - In the year 2045 Dr.NK invented the Healing Pod with the help of Dr.SGK as a way to treat soldiers on the battle field. Dr.NK wanted to create the Healing Pod to fulfill her dream of treating all health problems in 
   the world.
