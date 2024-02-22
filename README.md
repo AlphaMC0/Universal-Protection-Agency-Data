@@ -222,6 +222,7 @@
 - Rethrim, discovered by Dr.Onyx in the year 2032 on the planet Mars. Dr.Onyx discovered Rethrim on the outer layer of the Orthrim deposit.
 **                                                              **
 **Hostile Martian Creature Information**
+
 **All Hostile Creatures Can Permanently Sprint**
 >**Anglerox**
 - Creature ID           : CID-609
