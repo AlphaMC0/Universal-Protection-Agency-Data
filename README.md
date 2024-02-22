@@ -273,7 +273,7 @@
 >**Ursacetus**
 - Creature ID           : CID-669
 - Creature Danger Class : S
-- Strengths             : Speed, Strength, Hightened Sense of Smell and Vision
+- Strengths             : Speed, Strength, Hightened Sense of Smell, Vision and can regenerate
 - Weaknesses            : Lazer Sword
 - Weapons               : Teeth, Poison
 - Valuable Parts        : Energy
